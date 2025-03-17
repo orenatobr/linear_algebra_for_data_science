@@ -19,7 +19,7 @@ This repository contains Jupyter notebooks demonstrating key **Linear Algebra** 
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your_username/linear_algebra_for_data_science.git
+git clone https://github.com/orenatobr/linear_algebra_for_data_science.git
 cd linear_algebra_for_data_science
 ```
 

@@ -28,7 +28,7 @@ cd linear_algebra_for_data_science
 It is recommended to use a virtual environment:
 
 ```bash
-pip install -r requirements.txt
+poetry install --root
 ```
 
 ### 3️⃣ Run the Jupyter Notebook
